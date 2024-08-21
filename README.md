@@ -50,4 +50,6 @@ There are no implications for holders and participants in the token as a result 
 - The token can be traded in the usual terraport pool against LUNC.
 - The liquidity remains the same
 
-Furthermore, there is no risk for the network as a result of the migration. From the current perspective, no negative consequences of the rebranding are foreseeable. The Juris Protocol team hopes that the rebrand will give us back the freedom to list the token independently and automatically on frontend providers. The independence of the future token under the name "Juris Protocol" from its original meme template can also help to steer the project towards a serious external perception. But, please let's not forget the fun in all of this. And if it does get boring after all, you know what to do: **#blamefrag**.
+Furthermore, there is no risk for the network as a result of the migration. From the current perspective, no negative consequences of the rebranding are foreseeable. The Juris Protocol team hopes that the rebrand will give us back the freedom to list the token independently and automatically on frontend providers. The independence from it's original meme template can also help to steer the project towards a more serious external perception.
+
+But, please let's not forget the fun in all of this. And if it does get boring after all, you know what to do: **#blamefrag**.
