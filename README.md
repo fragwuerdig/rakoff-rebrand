@@ -40,6 +40,6 @@ git checkout v1.1.0+taxed003
 shasum -a 256 artifacts/cw20_taxed.wasm
 ```
 
-## Implications/risks/opportunities
+## Implications / Risks / Opportunities
 
 there are no implications for holders and participants in the token as a result of this proposal. the contract address remains the same. the account balances of the addresses are transferred 1:1. the token can be traded in the usual terraport pool against LUNC. The liquidity remains the same. furthermore, there is no risk for the network as a result of the migration. Juris Protocol hopes that the rebrand will give it the freedom to list the token independently and automatically on frontend providers again. from the current perspective, no negative consequences of the rebranding are foreseeable. the independence of the future token under the name juris from its original meme template can also help to steer the project towards a serious external perception. but please let's not forget the fun. and if it does get boring, you know what to do: **#blamefrag**.
