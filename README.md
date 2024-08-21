@@ -1,4 +1,4 @@
-## Problem definition
+## Problem Definition
 
 Dear Terra Classic Community. Juris Protocol is a third party project that wants to build a lending protocol on the Terra Classic network in the medium term. The project had planned to use an existing token as the governance token for the protocol. This token is (or was?) called the **Rakoff Token**. The token was a tribute to the real judge Jed S. Rakoff. Apparently, the real Rakoff felt offended by the token and was able to delist the token from Coinhall via court order. The original vision of Juris Protocol to use the token as a governance token is now over. End of story. Please, move on, there's nothing to see here...
 
