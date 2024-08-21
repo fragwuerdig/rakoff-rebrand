@@ -4,7 +4,7 @@ Dear Terra Classic Community. Juris Protocol is a third party project that wants
 
 But... wait. There is a way out of this mess. How about continuing the existing token and renaming it so that the judge can sit back and relax? To accomplish this, we need the full support of you, the Terra Classic community. Let's dive into it. Fasten your seat belts, it's gonna be technical.
 
-## Technical background
+## Technical Background
 
 Rakoff Token is a smart contract on the Terra Classic blockchain. The token implements a distributed ledger on Terra Classic's smart contract platform. Smart contracts on Terra Classic **can** (but do not need to) have an administrator account. This admin has the right to change the underlying code of the token at his will. This process is called **code migration**. During the code migration, a handler is executed that initiates all possible steps to ensure a smooth transition from the old contract logic to the new contract logic. In the case of Rakoff Token, administration rights have been renounced to ensure the integrity and immutability of the token itself
 
